@@ -24,7 +24,7 @@ const StyledBox = styled(Box)(({ theme }) => ({
 const StyledPaper = styled(Paper)(({ theme }) => ({
   p: 3,
   width: '100%',
-  maxWidth: 520,
+  maxWidth: 720,
   bgcolor: '#fff',
   padding: '24px',
 }));
